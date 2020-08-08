@@ -1,2 +1,2 @@
-# atmosferas_estelares
+# Atmosferas Estelares
 Curso de atmósferas estelares
